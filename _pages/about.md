@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{% include figure image_path="/assets/images/cliff_cropped.jpg" caption="(The person in the middle.)" %}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm Adrian Wang, a junior at the University of Pennsylvania. I study [Networked and Social Systems Engineering](https://www.nets.upenn.edu/), which means that my friends still ask me what my major is on a regular basis.
+
+I'm also the principal trumpet of the [Penn Symphony Orchestra](https://www.dolphin.upenn.edu/pennorch/), which is currently creating virtual concerts of Shostakovich's Symphony No. 5 and Copland's Appalachian Spring.
